@@ -10,10 +10,9 @@ organiser:
     email: dunedin@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "The Black Dog Kitchen and Bar"
+    pub_name: "Sessions"
     description: " on Princess Street"
-    url: https://blackdogdunedin.nz/
-    lon: 170.5027465
-    lat: -45.8759929
+    lon: 170.5030139,
+    lat: -45.875967
 hiatus: False
 ---
